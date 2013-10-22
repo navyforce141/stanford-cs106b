@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryEncoding", "BinaryEncoding\BinaryEncoding.vcproj", "{11151FD6-0D77-4C1D-A5C9-844F7E5CADFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11151FD6-0D77-4C1D-A5C9-844F7E5CADFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11151FD6-0D77-4C1D-A5C9-844F7E5CADFE}.Debug|Win32.Build.0 = Debug|Win32
+		{11151FD6-0D77-4C1D-A5C9-844F7E5CADFE}.Release|Win32.ActiveCfg = Release|Win32
+		{11151FD6-0D77-4C1D-A5C9-844F7E5CADFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
